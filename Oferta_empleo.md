@@ -17,7 +17,6 @@ opinión sobre la oferta.
  empresa de alto nivel que mira mucho por sus empleados ofreciendo variedad de
  servicios para que los empleados puedan disfrutarlos cuando necesiten.
 
- [Oferta de trabajo](https://www.infojobs.net/sevilla/sap-integration-suite-developer-remoto/of
-iab6d8093fd418590343ff432e2267b?applicationOrigin=search
-new&page=1&sortBy=RELEVANCE)¡
+[Oferta de trabajo](https://www.infojobs.net/sevilla/sap-integration-suite-developer-remoto/ofiab6d8093fd418590343ff432e2267b?applicationOrigin=searchnew&page=1&sortBy=RELEVANCE)
+
 (Iba a adjuntar una foto de la oferta de trabajo pero justo la habian quitado)
