@@ -1,3 +1,5 @@
+## Filosofia de DevOps
+
 La filosofía de DevOps se basa en promover una cultura de colaboración y responsabilidad compartida entre los equipos de desarrollo y operaciones, eliminando barreras tradicionales y fomentando la transparencia. Sus principios buscan la entrega continua de valor al usuario mediante iteraciones rápidas y mejora constante.
 
 Los valores centrales de esta filosofía incluyen:
