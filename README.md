@@ -6,3 +6,6 @@ DevOps es una práctica y cultura organizacional que fusiona el desarrollo de so
 [Filosofia de DevOps](./Filosofía_devops.md)  
 [Herramientas_devops](./Herramientas_devops.md)  
 [Oferta de trabajo](./Oferta_empleo.md)  
+
+
+[Informacion DevOps](https://www.atlassian.com/es/devops)  
