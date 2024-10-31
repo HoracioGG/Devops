@@ -10,7 +10,7 @@ Detallas de la oferta:
  entorno laboral (nivel B2-C1).
  - Sueldo: 21.000€- 36.000€ Bruto/año
  
- Datu opinión sobre la oferta.
+opinión sobre la oferta.
  Es una oferta muy interesante, comparada com muchas otras ofertas del sector ya
  que es una de las que pide el menor tiempo de experiencia y unos conocimientos
  que no son muy desorbitados de obtener, desde el punto exterior se ve una
