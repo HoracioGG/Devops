@@ -1,14 +1,14 @@
 Detallas de la oferta:
- ● Lugar de trabajo: La oferta es por teletrabajo pero la empresa cuenta con
+ - Lugar de trabajo: La oferta es por teletrabajo pero la empresa cuenta con
  locales fisicos a los que puedes acudir.
- ● Tecnologías exigidas: ámbitos como BI, IoT, Big Data e I+D. En el área de
+ - Tecnologías exigidas: ámbitos como BI, IoT, Big Data e I+D. En el área de
  Operaciones implantamos proyectos de Service Desk, Infraestructuras IT
  y proyectos Cloud
- ● Experiencia previa exigida: Experiencia mínima de 2 años como
+ - Experiencia previa exigida: Experiencia mínima de 2 años como
  Desarrollador/a SAP Integration Suite.
- ● Idiomas: Nivel alto de inglés, ya que tendrá que utilizarlo a diario en el
+ - Idiomas: Nivel alto de inglés, ya que tendrá que utilizarlo a diario en el
  entorno laboral (nivel B2-C1).
- ● Sueldo: 21.000€- 36.000€ Bruto/año
+ - Sueldo: 21.000€- 36.000€ Bruto/año
  
  Datu opinión sobre la oferta.
  Es una oferta muy interesante, comparada com muchas otras ofertas del sector ya
