@@ -46,4 +46,13 @@ AWS CloudFormation: Herramienta de IaC específica para AWS, que permite crear y
 Azure Resource Manager (ARM): Equivalente de IaC para la nube de Microsoft Azure, que facilita la creación y administración de recursos de manera programática.
 Cada una de estas herramientas contribuye a los pilares de DevOps: automatización, integración continua, entrega continua, y monitoreo. Su uso en conjunto permite a los equipos mejorar la rapidez, calidad y confiabilidad del software, desde su desarrollo hasta el despliegue y la supervisión en producción.
 
-[Volver al readme](./README.md) 
+|                                         |    Tabla de Herramientas DevOps                 |                                                                          |
+|-----------------------------------------|-------------------------------------------------|--------------------------------------------------------------------------|
+|                Fase                     |          Herramientas Clave                     |                            Descripción                                   |                                                     | Control de Código Fuente                | Git, IDEs                                       | Gestión de versiones, colaboración en el código                          | 
+| Integración Continua (CI)               | Jenkins, CircleCI, Travis CI, etc.              | Automatización de la construcción, pruebas y despliegue                  | 
+| Gestión Configuración e Infraestructura | Ansible, Chef, Puppet                           | Automatización de la configuración de sistemas y aplicaciones            |
+| Construcción y Empaquetado              | Docker, Packer                                  | Creación y gestión de contenedores y imágenes                            | 
+| Despliegue y Orquestación               | Kubernetes, Helm                                | Orquestación de contenedores y gestión de clusters                       |
+| Monitoreo y Seguridad                   | Prometheus, Grafana, Nagios, ELK Stack          | Monitoreo del rendimiento, detección de anomalías y gestión de logs      |
+| Colaboración y Planificación            | Jira, Confluence                                | Gestión de proyectos, seguimiento de tareas y documentación              |
+| Pruebas Automatizadas                   | Selenium, JUnit                                 | Automatización de pruebas funcionales y unitarias                        |
